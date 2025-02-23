@@ -37,13 +37,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/Awesome-Reasoning-Research/cv/";
           },
-        },{id: "nav-teaching",
-          title: "teaching",
-          description: "Materials for courses you taught. Replace this text with your description.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/Awesome-Reasoning-Research/teaching/";
-          },
         },{id: "nav-people",
           title: "people",
           description: "members of the lab or group",
@@ -51,14 +44,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/Awesome-Reasoning-Research/people/";
           },
-        },{id: "dropdown-publications",
-              title: "publications",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "";
-              },
-            },{id: "dropdown-blog",
+        },{id: "dropdown-blog",
               title: "blog",
               description: "",
               section: "Dropdown",
