@@ -13,15 +13,12 @@ images:
   venobox: true
 ---
 
-
-
-https://github.com/Open-Reasoner-Zero/Open-Reasoner-Zero
+[Open-Reasoner-Zero](https://github.com/Open-Reasoner-Zero/Open-Reasoner-Zero)
 
 Takeaways:
-1. Simple PPO alghorithm without simple rule-based reward model could be trained with scaled time and compute.
+1. Simple PPO algorithm without simple rule-based reward model could be trained with scaled time and compute.
 2. KL divergence is term and the reference model could be removed and this does harm the stability of training.
 3. The diversity and scale of data is quite important for the training of the model.
 
 The citation is presented inline like this: <d-cite key="gregor2015draw"></d-cite> (a number that displays more information on hover).
 If you have an appendix, a bibliography is automatically created and populated in it.
-
