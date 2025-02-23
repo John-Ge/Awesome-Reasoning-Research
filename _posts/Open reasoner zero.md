@@ -24,3 +24,4 @@ Takeaways:
 
 The citation is presented inline like this: <d-cite key="gregor2015draw"></d-cite> (a number that displays more information on hover).
 If you have an appendix, a bibliography is automatically created and populated in it.
+
